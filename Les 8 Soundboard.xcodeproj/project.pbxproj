@@ -13,6 +13,7 @@
 		93CAD58E1ECDE0790046C533 /* Les_8_Soundboard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 93CAD58C1ECDE0790046C533 /* Les_8_Soundboard.xcdatamodeld */; };
 		93CAD5901ECDE0790046C533 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93CAD58F1ECDE0790046C533 /* Assets.xcassets */; };
 		93CAD5931ECDE0790046C533 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93CAD5911ECDE0790046C533 /* LaunchScreen.storyboard */; };
+		93CAD59D1ECF027A0046C533 /* AddSoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93CAD59C1ECF027A0046C533 /* AddSoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		93CAD58F1ECDE0790046C533 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		93CAD5921ECDE0790046C533 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		93CAD5941ECDE0790046C533 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		93CAD59C1ECF027A0046C533 /* AddSoundViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddSoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				93CAD5851ECDE0790046C533 /* AppDelegate.swift */,
 				93CAD5871ECDE0790046C533 /* ViewController.swift */,
+				93CAD59C1ECF027A0046C533 /* AddSoundViewController.swift */,
 				93CAD5891ECDE0790046C533 /* Main.storyboard */,
 				93CAD58F1ECDE0790046C533 /* Assets.xcassets */,
 				93CAD5911ECDE0790046C533 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93CAD59D1ECF027A0046C533 /* AddSoundViewController.swift in Sources */,
 				93CAD58E1ECDE0790046C533 /* Les_8_Soundboard.xcdatamodeld in Sources */,
 				93CAD5881ECDE0790046C533 /* ViewController.swift in Sources */,
 				93CAD5861ECDE0790046C533 /* AppDelegate.swift in Sources */,
